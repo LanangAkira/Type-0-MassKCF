@@ -8,6 +8,7 @@ Kalo kalian mau ubah path nya, ubah ajah di dir.txt
 git clone https://github.com/LanangAkira/Type-0-MassKCF
 apt install shc
 cd Type-0-MassKCF
+chmod +x run.sh
 ./run.sh
 ```
 
