@@ -7,6 +7,7 @@ Kalo kalian mau ubah path nya, ubah ajah di dir.txt
 ```sh
 git clone https://github.com/LanangAkira/Type-0-MassKCF
 apt install shc
+apt install parallel
 cd Type-0-MassKCF
 chmod +x run.sh
 ./run.sh
